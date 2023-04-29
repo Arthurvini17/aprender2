@@ -14,6 +14,7 @@
     <div class="pai">
         <div class="lgn">
              <h1> LOGIN</h1>
+             <H2>login DE CABAÇO</H2>
         </div>
     <div class="form">
         <form action="cads.php" method="post">
