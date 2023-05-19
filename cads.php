@@ -6,7 +6,7 @@ include("connect.php");
     $sobrenome=$_POST['sobrenome'];
     $email=$_POST['email'];
     $senha=$_POST['senha'];
-    $teste.teste
+    
 
     $sql="INSERT INTO cadastro(nome, sobrenome, email, senha) VALUES ('$nome', '$sobrenome', '$email', '$senha')";
    
